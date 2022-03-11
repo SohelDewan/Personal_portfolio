@@ -1,0 +1,217 @@
+@media (max-width:1400px){
+
+        
+}
+@media (min-width:1200px) and (max-width:1399px){
+
+   
+}
+@media (min-width:992px) and (max-width:1199px){
+
+    
+}
+@media (min-width:768px) and (max-width:991px){
+    
+}
+@media (min-width:576px) and (max-width:767px){
+    .img_box img {
+        height: 61%;
+    }
+    .menu{
+        width: 94%;
+        padding: 2px 0;
+    }
+    .logo img {
+        width: 54px;
+    }
+    .btn {
+        padding: 2px 18px;
+        font-size: 13px;
+    }
+    nav ul{
+        margin-left: 5px;
+        padding-top: 230px;
+        background: #ddd;
+        opacity: 80%;
+        width: 67%;
+        visibility: hidden;
+    }
+    nav:hover ul{
+        visibility: visible;
+    }
+    nav ul li{
+        width: 100%;
+        margin: 0px;
+        padding: 0;
+    }
+    nav ul li a{
+        padding-bottom: 1px;
+        font-size: 14px;
+    }
+    #about_part {
+        padding: 30px 0;
+    }
+    .ab_right h3 {
+        font-size: 24px;
+        margin: 18px 0;
+        width: 280px;
+        align-items: center;
+    }
+    #about_part .abflx{
+        display: block;
+    }
+    .ab_left {
+        width: 100%;
+    }
+    .ab_right p {
+        line-height: 24px;
+        font-size: 13px;
+    }
+    
+    #gallery ul li {
+        width: 31.9%;
+    }
+    #gallery ul li:nth-child(3),
+    #gallery ul li:nth-child(6){
+        margin-right: 0;
+    }
+    #gallery ul li:nth-child(4){
+        margin-right: 6px;
+    }
+    #service ul li {
+        width: 31.9%;
+    }
+    #service ul li:nth-child(3),
+    #service ul li:nth-child(6){
+        margin-right: 0;
+    }
+    #service ul li:nth-child(4){
+        margin-right: 6px;
+    }
+    
+}
+@media (max-width:575.98px){
+    .menu{
+        width: 94%;
+        padding: 2px 0;
+    }
+    .logo img {
+        width: 48px;
+    }
+    nav ul{
+        margin-left: 5px;
+        padding-top: 230px;
+        background: #ddd;
+        opacity: 80%;
+        width: 67%;
+        visibility: hidden;
+    }
+    nav:hover ul{
+        visibility: visible;
+    }
+    nav ul li{
+        width: 100%;
+        margin: 0px;
+        padding: 0;
+    }
+    nav ul li a{
+        padding-bottom: 1px;
+        font-size: 14px;
+    }
+    .img_box {
+        display: none;
+    }
+    .btn{
+        padding: 0px 18px;
+        margin-right: 2px;
+        font-style: 12px;
+    }
+    .info{
+        margin-left: 7%;
+        margin-top: 20%;
+    }
+    .info h1{
+        font-size: 30px;
+    }
+    .info h1 span{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .info h2{
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+    .info h2 span{
+        font-size: 26px;
+    }
+    .info p{
+        font-size: 14px;
+        margin-bottom: 6px;
+        line-height: 24px;
+    }
+    .social_icon {
+        margin-top: 30px;
+    }
+
+
+    #about_part {
+        padding: 30px 0;
+    }
+    .ab_right h3 {
+        font-size: 24px;
+        margin: 18px 0;
+        width: 280px;
+    }
+
+    #gallery {
+        padding: 30px 0;
+    }
+    #gallery ul li {
+        width: 32.6%;
+        margin-right: 3px;
+    }
+    #gallery ul li:nth-child(3),
+    #gallery ul li:nth-child(6){
+        margin-right: 0;
+    }
+
+    #service {
+        padding: 30px 0;
+    }
+    #service h3 {
+        margin-bottom: 20px;
+        font-size: 18px;
+    }
+    #service ul li {
+        width: 49.1%;
+        margin-right: 5px;
+        font-weight: 500;
+    }
+    #service ul li:nth-child(2),
+    #service ul li:nth-child(4),
+    #service ul li:nth-child(6),
+    #service ul li:nth-child(8){
+        margin-right: 0;
+    }
+    #contact {
+        padding: 30px 0 0;
+    }
+    #contact p{
+            padding: 2px 2px;
+            font-size: 13px;
+    }
+    #contact .img img {
+        width: 55px;
+        height: 40px;
+    }
+    #contact h4 {
+        margin-top: 7px;
+    }
+    #contact ul li {
+        padding: 8px 0px;
+    }
+    #contact .contact_link ul li a{
+        font-size: 12px;
+    }
+
+}
